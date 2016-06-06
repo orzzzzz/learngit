@@ -5,3 +5,4 @@ Creating a new branch is quick.
 master1
 feature1
 测试分支管理
+gogogo
